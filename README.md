@@ -1,11 +1,18 @@
-<h2>Hi there 👋</h2>
+# Hi there 👋
 
-<p>
-    I'm a Unix/Linux System Engineer based in <i>Suisse</i>
-    and I'm on GitHub since 2014
+I'm a Unix/Linux System Engineer based in Suisse and I have been on GitHub since 2014.
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cormoran96&show_icons=true&theme=gotham" />
 </p>
 
+## Personal GitLab
 
-📈 my github stats
+You can also find me on [GitLab](https://git.dousse.eu/Lucas).
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Cormoran96&show_icons=true&theme=gotham" />
+
+## Twitter
+
+You can follow me on Twitter [@LucasDousse](https://twitter.com/LucasDousse).
